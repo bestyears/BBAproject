@@ -20,6 +20,7 @@ body { background-color:floralwhite;
 	padding-left:10%;
 }
 
+/* Action over */
 .IC1:hover, .IC2:hover, .IC3:hover{
  color: red;
 }
@@ -30,7 +31,7 @@ body { background-color:floralwhite;
   padding-top: 7%;
   vertical-align:middle;
 }
-
+/* delete underline*/
 .L1 {
     text-decoration:none;
 }
@@ -52,12 +53,12 @@ h1{ color: white;
 	background-color: black;
 	text-align:left;
   }
-  
+ 
+ /* Backhome action */ 
 .backhome{
   color: white;
   text-decoration:none;
 }
-
 .backhome:hover{
   color: red;
 }
